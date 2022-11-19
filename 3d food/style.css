@@ -1,0 +1,132 @@
+.text {
+    font-family: 'Recursive', sans-serif;
+    font-weight: 400;
+}
+
+.right-container {
+    top: 0%;
+    position: absolute;
+    display: flex;
+    border-right: 5px solid black;
+    height: 970px;
+    width: 200px;
+}
+
+.icons {
+    display: flex;
+    position: absolute;
+    left: 4%;
+    height: 96px;
+    width: 290px;
+    border-radius: 20px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 48px;
+    font-display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.design {
+    display: flex;
+    position: absolute;
+    right: 4%;
+    height: 96px;
+    width: 370px;
+    border-radius: 20px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 48px;
+    font-display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.btns {
+    padding: 10px;
+    position: absolute;
+    vertical-align: middle;
+    border-radius: 40px;
+    border: 5px solid black;
+    background-color: azure;
+    top: 77%;
+    left: 16%;
+    height: 96px;
+    width: 711px;
+}
+
+.second {
+    font-family: 'Recursive', sans-serif;
+    font-weight: 400;
+    top: 50%;
+    left: 11%;
+    position: absolute;
+    text-align: center;
+    font-size: 84px;
+    width: 511px;
+    height: 145px;
+}
+
+.main {
+    font-family: 'Recursive', sans-serif;
+    font-weight: 400;
+    top: 40%;
+    left: 10%;
+    position: absolute;
+    text-align: center;
+    font-size: 64px;
+    width: 810px;
+    height: 571px;
+}
+
+.noodle {
+    right: 550px;
+    position: absolute;
+    display: flex;
+    width: 525px;
+    height: 490px; 
+}
+
+.creative {
+    position: absolute;
+    display: flex;
+    left: 2%;
+    bottom: 5%;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    writing-mode: vertical-rl;
+    font-size: 24px;
+    font-display: flex;
+}
+
+.logo {
+    top: 5%;
+    left: 2.5%;
+    display: flex;
+    position: absolute;
+}
+
+.grill {
+    top: 27%;
+    left: 9%;
+    position: absolute;
+    display: flex;
+    width: 302px;
+    height: 286px;
+}
+
+.salat {
+    top: 15%;
+    right: 0%;
+    position: absolute;
+    width: 430px;
+    height: 561px;
+}
+
+.poke {
+    bottom: 0%;
+    right: 10%;
+    position: absolute;
+    display: flex;
+    width: 608px;
+    height: 473px;
+}
+
